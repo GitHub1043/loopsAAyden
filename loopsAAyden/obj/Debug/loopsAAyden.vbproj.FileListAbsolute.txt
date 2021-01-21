@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopsAAyden\loopsAAyden\bin\Debug\loopsAAyden.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopsAAyden\loopsAAyden\bin\Debug\loopsAAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopsAAyden\loopsAAyden\bin\Debug\loopsAAyden.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopsAAyden\loopsAAyden\bin\Debug\loopsAAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopsAAyden\loopsAAyden\obj\Debug\loopsAAyden.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopsAAyden\loopsAAyden\obj\Debug\loopsAAyden.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopsAAyden\loopsAAyden\obj\Debug\loopsAAyden.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopsAAyden\loopsAAyden\obj\Debug\loopsAAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopsAAyden\loopsAAyden\obj\Debug\loopsAAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopsAAyden\loopsAAyden\obj\Debug\loopsAAyden.pdb
